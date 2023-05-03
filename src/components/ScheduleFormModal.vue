@@ -7,7 +7,7 @@
 
     <template v-if="scheduleForm == 'rrule'">
       <p>
-        Sorry, modifying RRule schedules via the UI is currently unsupported; select a different schedule type above or modify your schedule in code.
+        Sorry, hindi pa po pwede
       </p>
     </template>
 
